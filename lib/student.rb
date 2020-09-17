@@ -62,6 +62,11 @@ end
    self.new(id, name, grade)
   
  end
+ 
+ def update 
+ 
+ 
+ end 
 end
   
   
